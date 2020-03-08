@@ -1,2 +1,3 @@
-# CIS-667-project
-CIS 667 Intro to AI
+# Othello Game with AI
+
+
